@@ -1,0 +1,11 @@
+{
+  "name": "第五版：以 v4 為底，只改一項：招牌鍋貼五天都從 70 降到 60（窮學生預算 60，每天嫌太貴 7～12 位）",
+  "pack": "official",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 10, "price": 60 }, { "name": "韭菜鍋貼", "qty": 6, "price": 70 }, { "name": "紅茶", "qty": 10, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 10, "price": 60 }, { "name": "韭菜鍋貼", "qty": 6, "price": 70 }, { "name": "玉米鍋貼", "qty": 4, "price": 80 }, { "name": "紅茶", "qty": 10, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 22, "price": 60 }, { "name": "韭菜鍋貼", "qty": 6, "price": 70 }, { "name": "紅茶", "qty": 10, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 13, "price": 60 }, { "name": "韭菜鍋貼", "qty": 7, "price": 70 }, { "name": "玉米鍋貼", "qty": 6, "price": 80 }, { "name": "紅茶", "qty": 12, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 17, "price": 60 }, { "name": "韭菜鍋貼", "qty": 9, "price": 70 }, { "name": "玉米鍋貼", "qty": 19, "price": 80 }, { "name": "紅茶", "qty": 14, "price": 25 } ], "promoCost": 0 }
+  ]
+}

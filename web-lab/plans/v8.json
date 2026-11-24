@@ -1,0 +1,11 @@
+{
+  "name": "第八版：以 v7 為底，(A)五天都不上架韭菜、改上玉米（怕韭菜的OL每天 6～10 位因討厭韭菜不進門）(B)紅茶與第2天酸辣湯依新增客人加量(C)第3天招牌 39→42",
+  "pack": "official",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "玉米鍋貼", "qty": 6, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "玉米鍋貼", "qty": 11, "price": 80 }, { "name": "酸辣湯", "qty": 18, "price": 35 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 42, "price": 60 }, { "name": "玉米鍋貼", "qty": 8, "price": 80 }, { "name": "紅茶", "qty": 22, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 27, "price": 60 }, { "name": "玉米鍋貼", "qty": 17, "price": 80 }, { "name": "紅茶", "qty": 24, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 30, "price": 60 }, { "name": "玉米鍋貼", "qty": 31, "price": 80 }, { "name": "紅茶", "qty": 19, "price": 25 } ], "promoCost": 0 }
+  ]
+}
